@@ -1,0 +1,7 @@
+# General
+itemGroup.flopper=流體漏斗
+general.flopper.description=輸送流體的漏斗
+
+# Blocks
+tile.blocks.flopper.flopper.name=流體漏斗
+tile.blocks.flopper.flopper.info=輸送流體的漏斗
